@@ -1,0 +1,11 @@
+﻿h1 {
+  font-size: 2em;
+  margin-bottom: .5em;
+  color: blue
+}
+body {background-color: #2ECC71}
+th {
+  font-size: 1.5em;
+  margin-bottom: .5em;
+  color: blue
+}
